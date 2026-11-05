@@ -46,7 +46,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone MY_REPOSITORY_URL
 ```
 
 ### 2. Navigate into the Project Directory
